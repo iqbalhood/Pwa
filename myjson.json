@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Rabbits",
+      "type" : "Animal"
+    },
+    {
+      "id": 2,
+      "name": "Cat",
+      "type": "Animal"
+    },
+    {
+      "id": 3,
+      "name": "Cucumber",
+      "type" : "fruit"
+    },
+    {
+      "id": 4,
+      "name": "apple",
+      "type": "fruit"
+    }
+  ]
+}
