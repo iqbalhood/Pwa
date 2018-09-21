@@ -17,7 +17,7 @@
     },
     {
       "id": 4,
-      "name": "apple"
+      "name": "apple",
       "type": "fruit"
     }
   ]
